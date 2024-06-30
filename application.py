@@ -1,4 +1,7 @@
-#api
+# Name: Brennan Morrisey
+# File name: application.py
+# A basic CRUD api that connects to a pre-existing database
+#
 from flask import Flask, request
 from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
