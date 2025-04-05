@@ -1,1 +1,1 @@
-Pyhotn CRUD API / Flask DB lab
+Python CRUD API / Flask DB lab
